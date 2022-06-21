@@ -1,1 +1,1 @@
-# spring-cloufd-config-profjects
+# spring-cloufd-config-projects
